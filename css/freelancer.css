@@ -503,3 +503,13 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+
+.language{
+  font-size: 50px;
+  margin-left: 15px;
+}
+
+.language:hover {
+  position: relative;
+  padding-top: 5px;
+}
